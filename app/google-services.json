@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365883471491",
+    "firebase_url": "https://onpoint-mvp.firebaseio.com",
+    "project_id": "onpoint-mvp",
+    "storage_bucket": "onpoint-mvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365883471491:android:63b4102b44c6dbf7",
+        "android_client_info": {
+          "package_name": "com.works.onpoint.onpoint_mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365883471491-4bal6dqjktqkrtsojarn788i8rhsi36t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.works.onpoint.onpoint_mvp",
+            "certificate_hash": "17eb159cd9e59157a5c334836aca21d9c4fd1909"
+          }
+        },
+        {
+          "client_id": "365883471491-ki344r1pi0vjol3f3e9npp0s56cbkra1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWRMg475zffh3y7oOOO8fBRpD94yJu_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365883471491-ki344r1pi0vjol3f3e9npp0s56cbkra1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
