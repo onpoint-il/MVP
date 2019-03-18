@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnPoint-BaseMVP</string>
+    <string name="title_activity_splash_screen">Tracker</string>
+    <string name="title_location_permission">Location Permission</string>
+    <string name="text_location_permission">To continue, grant the app permission to location data</string>
+    <string name="ok">Grant permission</string>
+</resources>

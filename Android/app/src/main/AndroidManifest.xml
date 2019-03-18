@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.works.onpoint.onpoint_basemvp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_custom_launcher"
+        android:label="@string/title_activity_splash_screen"
+        android:roundIcon="@mipmap/ic_custom_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+        </activity>
+    </application>
+    <uses-permission android:name="android.permisssion.ACCESS_FINE_LOCATION"></uses-permission>
+<uses-permission android:name="android.permisssion.ACCESS_COARSE_LOCATION"></uses-permission>
+</manifest>
